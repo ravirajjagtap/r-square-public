@@ -1,0 +1,2 @@
+C:/Fake/R-Square/android/app/.cxx/Debug/61361q3j/x86_64/CMakeFiles/edit_cache.dir
+C:/Fake/R-Square/android/app/.cxx/Debug/61361q3j/x86_64/CMakeFiles/rebuild_cache.dir
